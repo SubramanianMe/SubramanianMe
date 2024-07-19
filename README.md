@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Subramanian Meenakshi
-- 👀 I’m interested in coding, music and arts
+- 👀 I’m interested in technologies, music and arts
 - 🌱 I’m currently learning Java, Javascript and automation testing
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me : Subramanian.me@outlook.com
